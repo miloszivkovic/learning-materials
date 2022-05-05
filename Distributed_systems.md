@@ -1,6 +1,6 @@
 ## Patterns of Distributed Systems (martinfowler.com)
 
-All of the topics are listed here https://martinfowler.com/articles/patterns-of-distributed-systems/ (topics like Lamport Clock, Leader and Followers, Paxos, Two Phase Commit etc.)
+https://martinfowler.com/articles/patterns-of-distributed-systems/ (introduction to what are the problems with distributed systems, topics like Lamport Clock, Leader and Followers, Paxos, Two Phase Commit etc.)
 
 ## Paxos Algorithm
 
